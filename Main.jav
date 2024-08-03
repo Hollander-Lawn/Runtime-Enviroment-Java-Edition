@@ -5,7 +5,13 @@ public class Main{
         if (loading_boolean == true){
             initialise = true;
             System.out.println(initialise);
+            return 0;
             
+        }else{
+            initialise = false;
+            return 4;
         }
+        
+
     }
 }
