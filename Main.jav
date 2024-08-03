@@ -5,6 +5,7 @@ public class Main{
         if (loading_boolean == true){
             initialise = true;
             System.out.println(initialise);
+            
         }
     }
 }
